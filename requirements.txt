@@ -1,8 +1,8 @@
 transformers
-transformers[sentencepices]
+transformers[sentencepiece]
 datasets
-sacreblue
-rough_score
+sacrebleu
+rouge_score
 py7zr
 pandas
 nltk
